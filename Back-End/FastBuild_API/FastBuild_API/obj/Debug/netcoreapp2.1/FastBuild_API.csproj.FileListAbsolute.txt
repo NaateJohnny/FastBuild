@@ -12,3 +12,5 @@ C:\Users\FamiliaOliveira\source\repos\FastBuild_API\FastBuild_API\obj\Debug\netc
 C:\Users\FamiliaOliveira\source\repos\FastBuild_API\FastBuild_API\bin\Debug\netcoreapp2.1\FastBuild_API.pdb
 C:\Users\FamiliaOliveira\source\repos\FastBuild_API\FastBuild_API\obj\Debug\netcoreapp2.1\FastBuild_API.dll
 C:\Users\FamiliaOliveira\source\repos\FastBuild_API\FastBuild_API\obj\Debug\netcoreapp2.1\FastBuild_API.pdb
+C:\Users\FamiliaOliveira\source\repos\FastBuild_API\FastBuild_API\obj\Debug\netcoreapp2.1\FastBuild_API.Properties.Resources.resources
+C:\Users\FamiliaOliveira\source\repos\FastBuild_API\FastBuild_API\obj\Debug\netcoreapp2.1\FastBuild_API.csproj.GenerateResource.cache

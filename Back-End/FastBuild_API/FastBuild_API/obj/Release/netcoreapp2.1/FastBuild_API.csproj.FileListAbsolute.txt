@@ -1,0 +1,16 @@
+C:\Users\FamiliaOliveira\source\repos\FastBuild_API\FastBuild_API\bin\Release\netcoreapp2.1\FastBuild_API.deps.json
+C:\Users\FamiliaOliveira\source\repos\FastBuild_API\FastBuild_API\bin\Release\netcoreapp2.1\FastBuild_API.runtimeconfig.json
+C:\Users\FamiliaOliveira\source\repos\FastBuild_API\FastBuild_API\bin\Release\netcoreapp2.1\FastBuild_API.runtimeconfig.dev.json
+C:\Users\FamiliaOliveira\source\repos\FastBuild_API\FastBuild_API\bin\Release\netcoreapp2.1\FastBuild_API.dll
+C:\Users\FamiliaOliveira\source\repos\FastBuild_API\FastBuild_API\bin\Release\netcoreapp2.1\FastBuild_API.pdb
+C:\Users\FamiliaOliveira\source\repos\FastBuild_API\FastBuild_API\obj\Release\netcoreapp2.1\FastBuild_API.csprojAssemblyReference.cache
+C:\Users\FamiliaOliveira\source\repos\FastBuild_API\FastBuild_API\obj\Release\netcoreapp2.1\FastBuild_API.Properties.Resources.resources
+C:\Users\FamiliaOliveira\source\repos\FastBuild_API\FastBuild_API\obj\Release\netcoreapp2.1\FastBuild_API.csproj.GenerateResource.cache
+C:\Users\FamiliaOliveira\source\repos\FastBuild_API\FastBuild_API\obj\Release\netcoreapp2.1\FastBuild_API.csproj.CoreCompileInputs.cache
+C:\Users\FamiliaOliveira\source\repos\FastBuild_API\FastBuild_API\obj\Release\netcoreapp2.1\FastBuild_API.RazorAssemblyInfo.cache
+C:\Users\FamiliaOliveira\source\repos\FastBuild_API\FastBuild_API\obj\Release\netcoreapp2.1\FastBuild_API.RazorAssemblyInfo.cs
+C:\Users\FamiliaOliveira\source\repos\FastBuild_API\FastBuild_API\obj\Release\netcoreapp2.1\FastBuild_API.AssemblyInfoInputs.cache
+C:\Users\FamiliaOliveira\source\repos\FastBuild_API\FastBuild_API\obj\Release\netcoreapp2.1\FastBuild_API.AssemblyInfo.cs
+C:\Users\FamiliaOliveira\source\repos\FastBuild_API\FastBuild_API\obj\Release\netcoreapp2.1\FastBuild_API.RazorTargetAssemblyInfo.cache
+C:\Users\FamiliaOliveira\source\repos\FastBuild_API\FastBuild_API\obj\Release\netcoreapp2.1\FastBuild_API.dll
+C:\Users\FamiliaOliveira\source\repos\FastBuild_API\FastBuild_API\obj\Release\netcoreapp2.1\FastBuild_API.pdb

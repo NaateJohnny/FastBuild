@@ -22,9 +22,10 @@ namespace FastBuild_API.Controllers
 
         // GET: api/Clientes
         [HttpGet]
-        public IEnumerable<Cliente> GetCliente()
+        public ActionResult<Cliente> GetCliente()
         {
-            return _context.Cliente.ToList();
+            //return _context.Cliente.ToList();
+            return Ok(_context.Cliente);
         }
 
         // GET: api/Clientes/5
