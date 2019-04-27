@@ -3,6 +3,7 @@ import { createStackNavigator, createAppContainer } from 'react-navigation';
 import SignIn from './pages/signIn';
 import SignUp from './pages/signUp';
 import Main from './pages/main';
+import ProviderList from './pages/providerList';
 
 // import Main from './pages/main';
 
@@ -16,6 +17,9 @@ const AppNavigator = createStackNavigator({
   Home: {
     screen: Main
   },
+  ProviderList: {
+    screen: ProviderList
+  }
 });
 
 // export default createStackNavigator ({

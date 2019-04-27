@@ -11,11 +11,11 @@ namespace FastBuild_API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class PrestadorsController : ControllerBase
+    public class PrestadoresController : ControllerBase
     {
         private readonly FastBuildContext _context;
 
-        public PrestadorsController(FastBuildContext context)
+        public PrestadoresController(FastBuildContext context)
         {
             _context = context;
         }

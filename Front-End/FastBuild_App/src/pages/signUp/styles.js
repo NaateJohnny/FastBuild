@@ -36,7 +36,9 @@ const SuccessMessage = styled.Text`
 const Input = styled.TextInput`
   paddingHorizontal: 20px;
   paddingVertical: 15px;
+  borderWidth: 1;
   borderRadius: 40px;
+  borderColor: #DDD;
   backgroundColor: #fff;
   alignSelf: stretch;
   marginBottom: 15px;
